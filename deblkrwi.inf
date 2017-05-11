@@ -3,7 +3,7 @@
 [Version]
 Signature="$CHICAGO$"
 Class=USB
-ClassGUID="b6589fc6ab0dc82cf12099d1c2d40ab994e8410c"
+ClassGUID="356a192b7913b04c54574d18c28d46e6395428ab"
 provider=%MSFT%
 DriverVer=10/14/2009,2.3.0.1
 
